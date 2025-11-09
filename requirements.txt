@@ -1,0 +1,13 @@
+# Dependencias para el chatbot CSV con LangChain y OpenAI
+# No se especifican versiones fijas para evitar conflictos de dependencias
+
+streamlit
+langchain
+langchain-community
+langchain-openai
+chromadb
+openai
+pandas
+python-dotenv
+toml
+langchain-chroma
