@@ -1,0 +1,18 @@
+# Exclusión de archivos sensibles y temporales
+/secrets/
+/chroma_db/
+*.env
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.coverage
+.pytest_cache/
+.vscode/
+.idea/
+
+# Datos de prueba (opcional - descomentar si no quieres incluir en git)
+# /datos_prueba/
